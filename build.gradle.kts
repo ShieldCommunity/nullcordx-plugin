@@ -35,7 +35,7 @@ tasks.processResources {
 }
 
 tasks.jar {
-    archiveBaseName.set("NullCordX-plugin")
+    archiveBaseName.set("NullCordXPlugin")
     archiveClassifier.set("")
     archiveVersion.set("")
 }

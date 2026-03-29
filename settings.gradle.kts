@@ -1,1 +1,1 @@
-rootProject.name = "nullcordx-plugin"
+rootProject.name = "NullCordXPlugin"
