@@ -1,0 +1,4 @@
+name: NullCordXPlugin
+version: "${version}"
+main: net.shieldcommunity.nullcordxplugin.NullCordXPlugin
+author: shieldcommunity
